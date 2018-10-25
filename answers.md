@@ -22,4 +22,5 @@ remotes/origin/bizarre
 
 
 ## 1.11
-
+La branche master est la branche représentant la production. Elle va contenir les versions vX.Y.Z.
+La branche develop représente l'environnement de dev où on va pusher toutes les features.
